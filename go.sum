@@ -4,3 +4,7 @@ github.com/b0742020/puppy v0.0.0-20241126094728-aed49311310d h1:H/4aWiYUg3g5qGcW
 github.com/b0742020/puppy v0.0.0-20241126094728-aed49311310d/go.mod h1:AONiw4Pj6EHbAVoXmxIr6H+Tkdd76c7yTfHC6oT5d00=
 github.com/b0742020/puppy v0.0.0-20241126095404-d1cbefab5346 h1:HBGGEXeCb6Ux8Ku6ysSGWKq4C9I9Gr7j056g1dbsFR0=
 github.com/b0742020/puppy v0.0.0-20241126095404-d1cbefab5346/go.mod h1:TsiPOkn1/6GtcWEmPvGq4ROvj1jOMaL3ENLUqy43h7s=
+github.com/b0742020/puppy v1.1.0 h1:c2ouRJTP7JMCE4JKnK5O9RmtULZkuxYuGbyMYmXzUvw=
+github.com/b0742020/puppy v1.1.0/go.mod h1:TsiPOkn1/6GtcWEmPvGq4ROvj1jOMaL3ENLUqy43h7s=
+github.com/b0742020/puppy v1.2.0 h1:evM6CbEJTzYYIA3qcbvbsGfIaalgMuAX6aIxb7jVpHU=
+github.com/b0742020/puppy v1.2.0/go.mod h1:TsiPOkn1/6GtcWEmPvGq4ROvj1jOMaL3ENLUqy43h7s=
